@@ -1,0 +1,22 @@
+{
+  "name": "alejandreta",
+  "version": "1.0.0",
+  "description": "Un bot para Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ExpErgio",
+  "license": "ISC",
+  "dependencies": {
+    "amazon-buddy": "^2.2.12",
+    "amazon-paapi": "^1.0.3",
+    "bitly": "^7.1.0",
+    "discord.js": "^12.4.1",
+    "marsnpm": "^0.5.1",
+    "math.js": "^1.1.43",
+    "mega-dtbs": "^0.1.16",
+    "opusscript": "0.0.6",
+    "request": "file:node_modules/request"
+  }
+}
